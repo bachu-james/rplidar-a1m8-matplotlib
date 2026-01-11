@@ -1,6 +1,6 @@
 # RPLIDAR A1M8 Polar Visualization (Raspberry Pi + Ubuntu)
 
-This project visualizes **RPLIDAR A1M8** scan data in real time using **Python and matplotlib**
+This project visualizes **RPLIDAR A1M8** scan data in real time using **Python and Matplotlib**
 on a **Raspberry Pi running Ubuntu**, without using ROS.
 
 ## 🔧 Hardware
@@ -19,7 +19,11 @@ on a **Raspberry Pi running Ubuntu**, without using ROS.
 - Live scan refresh per revolution
 - Clean shutdown handling
 
-## ▶️ Demo
+## 🎥 Demo Video
+▶️ Watch the full working demo on YouTube:  
+https://youtu.be/NPnB0obLOec
+
+## 📸 Output Preview
 ![LiDAR Running](demo/lidar_running.jpg)
 
 ## 🚀 How to Run
